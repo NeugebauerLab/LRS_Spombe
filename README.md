@@ -18,3 +18,5 @@ SP_prp2_BC4	TGTGTATCAGTACATG	CATGTACTGATACACA;
 SP_prp2_BC5	ACACGCATGACACACT	AGTGTGTCATGCGTGT;
 SP_prp2_BC6	GATCTCTACTATATGC	GCATATAGTAGAGATC;
 spike_in_BC7	ACAGTCTATACTGCTG	CAGCAGTATAGACTGT;
+
+The polyA tail filtering process requires an input bed file, which provides the polyA site annotation of genes plus 100 nt up- and downstream of the annotated site.
